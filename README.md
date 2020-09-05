@@ -1,4 +1,4 @@
-# RhythmsGonnaGetYouColter
+# Rhythm's Gonna Get You: A C# and .NET App with SQL Database
 
 For this project, we will model and create a database. We are starting a record
 label company, and we a place to store our bands, albums, and eventually songs.
